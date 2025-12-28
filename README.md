@@ -43,6 +43,6 @@ A modern and user-friendly **Password Generator GUI** built with **CustomTkinter
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/Ctk-Password-generator.git
+git clone https://github.com/NikoSeanPascual/Ctk-Password-generator.git
 
 
